@@ -8,7 +8,7 @@ by characterizing the combinational and sequential logic gates. The characterist
 Library Details:
 The EGT standard libraries are developed using the compact models of the EGT. Only n-type transistor is available in EGT technology and all logic gates are realized with
 tranistor-resisitor logic. The pull-up logic is realized using a resistor and pull-down logic is relaized using an EGFET. 
-The ./lib folder contains the standard libraries for the supply voltage ranging from 0.6V to 1.0V. Detailed information about the libraries are prvided in [R3].
+The ./lib folder contains the standard libraries for the supply voltage ranging from 0.6V to 2.0V. Detailed information about the libraries are prvided in [R3].
 
 [R1] G.C. Marques, D.Weller, A. T. Erozan, X. Feng, M. Tahoori, and J. Aghassi-Hagmann, “Progress Report on ‘From printed electrolyte-gated metal-oxide devices to circuits'”, Advanced Materials, 2019.
 
