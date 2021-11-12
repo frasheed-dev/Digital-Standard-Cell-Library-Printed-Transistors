@@ -1,4 +1,4 @@
-# EGT_SCL: A digital Standard Cell Timing Library for Printed Electrolyte-Gated Transistor (EGT) Technology 
+#A digital Standard Cell Timing Library for Printed Electrolyte-Gated Transistor (EGT) Technology 
 
 Motivation:
 EGT is an inkjet printed electrolyte-gated transistor technology for developing pritable devices and circuits. The EGT technology is a low-voltage technology
